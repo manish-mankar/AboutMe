@@ -26,6 +26,7 @@ I specialize in building robust frontends that do all the heavy lifting look for
 </div>
 
 <br />
+
 ## Rapidfire 
 
 - 🔭 I’m currently working on [Nxt Trendz](https://nxtxtrendzzzzz.ccbp.tech/)  
