@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Manish Mankar !
 I’m a full-stack developer and I have one year of experience. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
 
-I specialize in building robust frontends that do all the heavy lifting look for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies.  
+I specialize in building robust frontends that do all the heavy lifting look for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective.  
 
 <br/>
  
